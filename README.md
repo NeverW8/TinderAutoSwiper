@@ -1,6 +1,8 @@
 # TinderAutoSwiper
 A python script that autoswipes for you
 
+Change username + password in secrets.py to your real login information.
+
 There's 2 files that's required for this to work.
     ChromeDriver & Selenium.
         
